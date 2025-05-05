@@ -1,10 +1,9 @@
 <h1 align="center">Hi there! 👋 I'm Nyasa Vishwas</h1>
 
 <p align="center">
-  🎓 B.Tech CSE 2nd year student | 💻 Aspiring Software Developer 
-  <br/>
+  🎓 B.Tech CSE 2nd year student <br/>
+  💻 Aspiring Software Developer <br/>
   🧠 Passionate about AI, real-world problem-solving, and creative coding  
-  🌟 Passionate about blending tech with creativity
 </p>
 
 ---

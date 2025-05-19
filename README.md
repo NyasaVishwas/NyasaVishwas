@@ -29,6 +29,12 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat-square)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
+![Pillow](https://img.shields.io/badge/-Pillow-306998?logo=python&logoColor=white&style=flat-square)
+
 
 ---
 
@@ -44,7 +50,7 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/nyasavishwas)
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-FF69B4?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com) -->
 📧 Email: nyasaavishwass@gmail.com 
 <!-- 👀 Visitors: ![Visitor Badge](https://komarev.com/ghpvc/?username=NyasaVishwas&color=ff69b4) -->

@@ -50,7 +50,7 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/nyasavishwas)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nyasavishwas)
 <!-- [![Portfolio](https://img.shields.io/badge/-Portfolio-FF69B4?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com) -->
 📧 Email: nyasaavishwass@gmail.com 
 <!-- 👀 Visitors: ![Visitor Badge](https://komarev.com/ghpvc/?username=NyasaVishwas&color=ff69b4) -->

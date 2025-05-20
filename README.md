@@ -42,7 +42,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NyasaVishwas&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyasaVishwas&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyasaVishwas&theme=radical&refresh=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyasaVishwas&layout=compact&theme=radical" />
 </p>
 

@@ -41,9 +41,9 @@
 ## 📈 GitHub Activity
 
 <p align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=NyasaVishwas&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-  ![](https://nirzak-streak-stats.vercel.app/?user=NyasaVishwas&theme=dark&hide_border=false)<br/>
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NyasaVishwas&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <img src="https://github-readme-stats.vercel.app/api?username=NyasaVishwas&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NyasaVishwas&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NyasaVishwas&layout=compact&theme=radical" />
 </p>
 
 ---

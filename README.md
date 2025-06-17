@@ -1,4 +1,4 @@
-<h1 align = "center">Hi there! 👋 I'm Nyasa Vishwas</h1>
+<h1>Hi there! 👋 I'm Nyasa Vishwas</h1>
 
 <p>
   🎓 B.Tech CSE 2nd year student <br/>

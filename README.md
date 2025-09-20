@@ -3,7 +3,7 @@
 <p>
   🎓 B.Tech CSE 3rd year student <br/>
   💻 Aspiring Software Developer <br/>
-  🧠 Passionate about AI, real-world problem-solving, and creative coding  
+  🧠 Passionate about AI, real-world problem-solving, and creative coding 
 </p>
 
 ---

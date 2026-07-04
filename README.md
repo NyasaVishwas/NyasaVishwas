@@ -43,11 +43,10 @@
 
 ---
 
-## 📈 GitHub Activity
-
-![](https://github-readme-stats.vercel.app/api?username=NyasaVishwas&theme=omni&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NyasaVishwas&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=NyasaVishwas&theme=omni&hide_border=false)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=NyasaVishwas&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=NyasaVishwas&theme=rose_pine&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=NyasaVishwas&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
